@@ -1,7 +1,7 @@
 ---
 name: Tech Check
 about: Enter details for a new Tech Check
-title: ''
+title: Tech Check - Topic Goes Here
 labels: enhancement
 assignees: ''
 
